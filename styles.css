@@ -1,0 +1,31 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#namehead{
+    color: blue;
+    text-align: center;
+}
+#wrapper{
+    background-color: beige;
+    box-shadow: 7px 9px rgba(0, 0, 0, 0.315);
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+  
+    max-width: 960px; /* 2 */
+  
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+}
+body{
+    background-color: rgb(112, 134, 112);
+}
+footer{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
